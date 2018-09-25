@@ -10,6 +10,7 @@ body {
 }
 #content-contact {
 	margin: 0 0 16px 0;
+	float: center;
 	padding: 0 0 16px 0;
 	font-size: 26px;
 	font-weight: bold;
