@@ -1,16 +1,21 @@
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+	
 #content-header {
 	font-size: 26px;
+	
 }
+	
 }
 .date {
   float:right;
+	
 }
 h3 {
 	border-bottom: 1px;
 }
+
 h4{
 	margin-top: 0px;
 	margin-bottom: 0px;
