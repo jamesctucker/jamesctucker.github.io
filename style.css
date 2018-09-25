@@ -1,9 +1,17 @@
 body {
-	font: 16px Arial, Sans-Serif;
+	font: 16px Helvetica, Sans-Serif;
 }
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+}
+#content-contact {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+	font-size: 36px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	border-bottom: 1px solid #999;
 }	
 #content-header {
 	font-size: 28px;	
