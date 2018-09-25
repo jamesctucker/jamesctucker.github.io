@@ -16,6 +16,9 @@ body {
 	letter-spacing: -1px;
 	border-bottom: 1px solid #999;
 }	
+img {
+    border-radius: 50%;
+}
 #content-header {
 	font-size: 24px;	
 }	
