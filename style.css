@@ -9,13 +9,13 @@ body {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	float:left;
-	font-size: 36px;
+	font-size: 12px;
 	font-weight: bold;
 	letter-spacing: -1px;
 	border-bottom: 1px solid #999;
 }	
 #content-header {
-	font-size: 28px;	
+	font-size: 24px;	
 }	
 .date {
   float:right;	
