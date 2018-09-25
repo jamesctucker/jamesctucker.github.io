@@ -1,3 +1,6 @@
+body {
+	font: 16px Raleway, Sans-Serif;
+}
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
