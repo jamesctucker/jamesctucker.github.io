@@ -8,13 +8,6 @@ function openTab(evt, tabName) {
         tabcontent[i].style.display = "none";
     }
     
-<button class="tablinks" onclick="openTab(event, 'Summary')" id="DefaultOpen">Summary</button>
-
-<script>
-// Get the element with id="DefaultOpen" and click on it
-document.getElementById("DefaultOpen").click();
-</script> 
-
     // Get all elements with class="tablinks" and remove the class "active"
     tablinks = document.getElementsByClassName("tablinks");
     for (i = 0; i < tablinks.length; i++) {
