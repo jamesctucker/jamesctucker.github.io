@@ -1,14 +1,15 @@
-body {
-	font: 16px "Helvetica", Sans-Serif;
-	background-color: #ffffff;
-}
-
 html { 
   background: url(MistyWOods.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+
+body {
+	font: 16px "Helvetica", Sans-Serif;
+	background-color: #ffffff;
 }
 
 
