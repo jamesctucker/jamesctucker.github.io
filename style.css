@@ -5,14 +5,12 @@ body {
 #container {
 	width: 1000px;
 	margin: 40px auto 60px;
-}
-#content-info {
-	font: 10px, Helvetica, Sans-Serif;
+	
 }
 #content-contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
-	font-size: 26px;
+	font-size: 24px;
 	font-weight: bold;
 	letter-spacing: -1px;
 	border-bottom: 1px solid #999;
@@ -31,11 +29,6 @@ img {
 }	
 .date {
   float:right;	
-}
-
-h2 {
-	float: center;
-	font-family: Palatino Linotype, Palatino, Serif;
 }
 
 h3 {
