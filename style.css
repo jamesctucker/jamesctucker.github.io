@@ -32,6 +32,12 @@ img {
 .date {
   float:right;	
 }
+
+h2 {
+	float: center;
+	font-family: Palatino Linotype, Palatino, Serif;
+}
+
 h3 {
 	border-bottom: 1px;
 	margin-bottom: 4px;
