@@ -5,22 +5,9 @@ body {
 
 
 #container {
-	height: 50%
 	width: 1000px;
 	margin: 40px auto 60px;
 	
-}
-.bg {
-    /* The image used */
-    background-image: url("MistyWoods.jpg");
-
-    /* Full height */
-    height: 50%;
-
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 #content-contact {
 	margin: 0 0 16px 0;
 	padding: 0 0 2px 0;
