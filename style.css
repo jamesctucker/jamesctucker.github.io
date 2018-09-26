@@ -20,7 +20,8 @@ body {
 
 h2 {
 	text-align: center;
-	font: helvetica, Sans-Serif;
+	font-family: Palatino Linotype, Serif;
+	font-size: 1.5em;
 	
 }
 
