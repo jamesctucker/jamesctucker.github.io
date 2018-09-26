@@ -52,6 +52,7 @@ h4 {
 .tab button {
     background-color: inherit;
     border: none;
+    margin: auto;
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
