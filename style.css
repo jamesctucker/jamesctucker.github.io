@@ -49,11 +49,11 @@ h4 {
 /* Style the buttons that are used to open the tab content */
 .tab button {
     background-color: inherit;
-    float: left;
+    float: center;
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 24px 26px;
     transition: 0.3s;
 }
 
