@@ -7,7 +7,6 @@ body {
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
-	background-image: url("MistyWoods.jpg");
 }
 	
 #content-contact {
@@ -17,6 +16,7 @@ body {
 	font-size: 28px;
 	text-align: center;
 	letter-spacing: -1px;
+	background-image: url("MistyWoods.jpg");
 	border-bottom: 2px solid #999;
 }
 
