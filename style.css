@@ -19,7 +19,7 @@ body {
 }
 #contact-name {
 	font: 36px, Helvetica, Sans-Serif;
-	float: right;
+	margin: auto;
 }
 img {
     border-radius: 50%;
