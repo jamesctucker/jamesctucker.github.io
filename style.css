@@ -17,6 +17,10 @@ body {
 	letter-spacing: -1px;
 	border-bottom: 1px solid #999;
 }
+p {
+	font-family: Palatino Linotype, serif;
+	text-align: center;
+}
 
 img {
     border-radius: 50%;
