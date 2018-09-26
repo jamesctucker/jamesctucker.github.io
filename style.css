@@ -3,7 +3,7 @@ body {
 	background-color: #ffffff;
 }
 
-body, html {
+container, html {
     height: 50%;
 }
 
